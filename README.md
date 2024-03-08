@@ -27,3 +27,6 @@ Use the following login credentials for the website:
 
 **email:** `admin@test.com`
 **password:** `test123`
+# Demo
+I have uploaded a video demo on YouTube. Click [here](https://youtu.be/sFokhCEDtz8) to watch. Thanks :)
+
