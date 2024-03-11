@@ -1,4 +1,4 @@
-# Rugby World Cup Website
+# Rugby World Cup 2023 Website
 Data driven component-based website built using Meta’s ReactJS library for front-end components, Express.js for building RESTful API with Node.js, Postman for API testing and MySQL database following a three-tier architecture.
 # How to Run
 1. Install XAMPP. Start Apache and MySQL module from XAMPP Control Panel.
